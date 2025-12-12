@@ -18,7 +18,3 @@ Both pipelines include:
 - Test predictions
 - Aspect extraction + inference
 
----
-
-## 📂 Repository Structure
-
