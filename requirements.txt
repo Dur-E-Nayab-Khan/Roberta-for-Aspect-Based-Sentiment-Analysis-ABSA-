@@ -1,0 +1,11 @@
+transformers
+datasets
+scikit-learn
+xmltodict
+lxml
+matplotlib
+torch
+nltk
+pandas
+numpy
+tqdm
